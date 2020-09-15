@@ -50,6 +50,12 @@ ul{
    color: #506a85;
    font-weight: 550;
 }
+
+.top-header .info li a:hover{
+	color: #00bc9c;
+	transition: .5s; 
+}
+
 .top-header .info .fa{
 	margin-right: 8px;
 }
@@ -101,6 +107,11 @@ ul{
 .bottom-header .search-icon a{
 	color: #506a85;
 	text-align: right;
+}
+
+.bottom-header .search-icon a:hover{
+	color: #00bc9c;
+	transition: .5s;
 }
 
 /**********************header code ends*******************/
@@ -189,4 +200,6 @@ ul{
 	margin-bottom: 0px;
 }
 /**********************who we are code ends*******************/
+
+
 
